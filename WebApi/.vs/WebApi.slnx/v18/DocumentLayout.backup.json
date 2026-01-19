@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frede\\source\\repos\\editora\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1963FF41-1B1B-D560-A22D-F9D3C981C941}|WebApi.csproj|c:\\users\\frede\\source\\repos\\editora\\webapi\\controllers\\formascomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1963FF41-1B1B-D560-A22D-F9D3C981C941}|WebApi.csproj|solutionrelative:controllers\\formascomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1963FF41-1B1B-D560-A22D-F9D3C981C941}|WebApi.csproj|c:\\users\\frede\\source\\repos\\editora\\webapi\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1963FF41-1B1B-D560-A22D-F9D3C981C941}|WebApi.csproj|solutionrelative:controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\frede\\source\\repos\\editora\\application\\livroappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\frede\\source\\repos\\editora\\application\\formacompraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5826D3E2-35D1-3394-E8AD-3768DEE232D8}|..\\Application\\Application.csproj|c:\\users\\frede\\source\\repos\\editora\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\frede\\source\\repos\\editora\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\frede\\source\\repos\\editora\\infrastructure\\databases\\repositories\\formacomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\frede\\source\\repos\\editora\\infrastructure\\databases\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C8CBAE-DE02-7B4C-706D-5B7BB03EEA4F}|..\\Domain\\Domain.csproj|c:\\users\\frede\\source\\repos\\editora\\domain\\interfaces\\iformacomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\frede\\source\\repos\\editora\\infrastructure\\databases\\migrations\\20260119012929_formacompra-preco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\frede\\source\\repos\\editora\\infrastructure\\databases\\maps\\livromap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\frede\\source\\repos\\editora\\infrastructure\\databases\\maps\\formacompramap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C89F7701-1230-045D-AC93-AE7F7C59B668}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\frede\\source\\repos\\editora\\infrastructure\\databases\\maps\\precomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\WebApi\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\WebApi\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "Controllers\\LivrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:41:50.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormasComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\WebApi\\Controllers\\FormasComprasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FormasComprasController.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\WebApi\\Controllers\\FormasComprasController.cs",
+              "RelativeToolTip": "Controllers\\FormasComprasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:41:32.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:40:23.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormaCompraAppService.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Application\\FormaCompraAppService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\FormaCompraAppService.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Application\\FormaCompraAppService.cs",
+              "RelativeToolTip": "..\\Application\\FormaCompraAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:39:07.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LivroAppService.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Application\\LivroAppService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\LivroAppService.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Application\\LivroAppService.cs",
+              "RelativeToolTip": "..\\Application\\LivroAppService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:35:44.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:35:05.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Databases\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Databases\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:34:10.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormaCompraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\Repositories\\FormaCompraRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Databases\\Repositories\\FormaCompraRepository.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\Repositories\\FormaCompraRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Databases\\Repositories\\FormaCompraRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:33:40.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFormaCompraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Domain\\Interfaces\\IFormaCompraRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Interfaces\\IFormaCompraRepository.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Domain\\Interfaces\\IFormaCompraRepository.cs",
+              "RelativeToolTip": "..\\Domain\\Interfaces\\IFormaCompraRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:31:57.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260119012929_FormaCompra-Preco.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\Migrations\\20260119012929_FormaCompra-Preco.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Databases\\Migrations\\20260119012929_FormaCompra-Preco.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\Migrations\\20260119012929_FormaCompra-Preco.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Databases\\Migrations\\20260119012929_FormaCompra-Preco.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:29:38.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrecoMap.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\Maps\\PrecoMap.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Databases\\Maps\\PrecoMap.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\Maps\\PrecoMap.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Databases\\Maps\\PrecoMap.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:17:53.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LivroMap.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\Maps\\LivroMap.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Databases\\Maps\\LivroMap.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\Maps\\LivroMap.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Databases\\Maps\\LivroMap.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:17:27.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormaCompraMap.cs",
+              "DocumentMoniker": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\Maps\\FormaCompraMap.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Databases\\Maps\\FormaCompraMap.cs",
+              "ToolTip": "C:\\Users\\frede\\source\\repos\\editora\\Infrastructure\\Databases\\Maps\\FormaCompraMap.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Databases\\Maps\\FormaCompraMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:16:11.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

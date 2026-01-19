@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="../Application.Tests/Application.Tests.csproj" Id="6863fdd2-5c39-46db-932b-88ac416fbca9" />
+    <Project Path="../Domain.Tests/Domain.Tests.csproj" Id="4ca56dbb-0808-45ac-8c5f-3668a6422595" />
+  </Folder>
+  <Project Path="../Application/Application.csproj" />
+  <Project Path="../Domain/Domain.csproj" />
+  <Project Path="../Infrastructure/Infrastructure.csproj" />
+  <Project Path="WebApi.csproj" />
+</Solution>
