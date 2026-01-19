@@ -45,4 +45,12 @@ public class LivrosController(ILivroAppService livroAppService) : ControllerBase
     {
         return Ok(await livroAppService.ObterRelatorio());
     }
+
+    [HttpDelete("{codigo:int}")]
+    public async Task<IActionResult> Delete(int codigo)
+    {
+        await livroAppService.Apagar(codigo);
+        
+        return NoContent();
+    }
 }

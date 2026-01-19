@@ -8,6 +8,7 @@ public class CodeError
     public const string LivroEditoraNaoPodeSerVazio = "editora_nao_pode_ser_vazio";
     public const string LivroAnoPublicaoNaoPodeSerVazio = "anoPublicao_nao_pode_ser_vazio";
     public const string LivroEdicaoNaoPodeSerVazio = "edicao_nao_pode_ser_vazio";
+    public const string LivroNaoEncontrado = "livro_nao_encontrado";
 
     public const string AssuntoObrigatorio = "assunto_obrigatorio";
     public const string AssuntoJaExiste = "assunto_ja_existe";

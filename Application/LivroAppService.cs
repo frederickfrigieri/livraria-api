@@ -13,6 +13,7 @@ public interface ILivroAppService
     Task<Livro?> ObterPorCodigo(int codigo);
     Task<IEnumerable<Livro>> ObterTodos();
     Task<IEnumerable<RelatorioAutorViewModel>> ObterRelatorio();
+    Task Apagar(int codigo);
 }
 
 public class LivroAppService : ILivroAppService
@@ -35,6 +36,16 @@ public class LivroAppService : ILivroAppService
         _assuntoRepository = assuntoRepository;
         _validator = validator;
         _unitOfWork = unitOfWork;
+    }
+
+    public async Task Apagar(int codigo)
+    {
+        var livro = await _livroRepository.ObterPorId(codigo) 
+            ?? throw new Exceptions.ApplicationException(CodeError.LivroNaoEncontrado, "Livro não encontrado");
+        
+        _livroRepository.Deletar(livro);
+
+        await _unitOfWork.Save();
     }
 
     public async Task<int> Cadastrar(LivroRequest request)
